@@ -3,7 +3,7 @@ let per=(amountr/1000000)*100;
 
 document.getElementById("amtp").innerText=per;
 document.getElementById("progressbarmy").style.width=per+"%";
-document.getElementById("progressbarmy").innerText=per+"%";
+// document.getElementById("progressbarmy").innerText=per+"%";
 
 
 
